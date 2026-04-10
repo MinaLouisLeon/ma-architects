@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# tool directories
+.claude/
+.playwright-mcp/
+.vscode/
+
+# design reference screenshots
+/hsi-*.png
+/home-*.png
